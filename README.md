@@ -96,3 +96,4 @@ You can use different Add-ons/Extensions for it
 [`userconfig.js`]: userconfig.js
 [`tabler-icons`]: https://tabler.io/icons
 [font]: src/fonts
+# catppuccin-startpage
